@@ -470,6 +470,8 @@
 - [iconizr](http://iconizr.com/)
 - [Cikonss - 纯CSS实现的响应式Icon](http://www.bootcss.com/p/cikonss/)
 - [Simple Icons](https://github.com/danleech/simple-icons)
+- [Shepherd - Guide your users through a tour of your app](https://github.com/HubSpot/shepherd)
+- [Tether](https://github.com/HubSpot/tether/)
 
 ##16. 动画(Animate)
 
